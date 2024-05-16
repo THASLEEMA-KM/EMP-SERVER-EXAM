@@ -1,0 +1,18 @@
+{
+  "allEmployees": [
+    {
+      "id": "2d74",
+      "uid": "1002",
+      "name": "akash",
+      "email": "akash123@gmail.com",
+      "status": "Inactive"
+    },
+    {
+      "id": "59b8",
+      "uid": "5000",
+      "name": "THASLEEMA K M",
+      "email": "thasleemakm5@gmail.com",
+      "status": "Active"
+    }
+  ]
+}
